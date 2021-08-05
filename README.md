@@ -1,4 +1,4 @@
-# TTNIC
+# TITANIC
 	The goal of this assessed homework was to practice the use of the ggplot2 library by:
 •	Manipulating the data using dplyr, tidyverse, and lubridate libraries to put it in the analysis-ready format
 •	Producing a ggplot bar graph, one bar showing the number of survivors and the other the number of casualties
